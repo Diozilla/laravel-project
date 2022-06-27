@@ -1,0 +1,45 @@
+admin acc : dio@info.com / 123456789
+mod : gang@info.com / 123456789
+
+
+
+ packages used : https://github.com/jeremykenedy/laravel-roles => for roles and permissions// laravel breeze for auth / 
+
+
+
+
+account must be admin to access the dashboard / 
+
+
+
+
+
+CATEGORIES AND PRODUCTS WHEN U ADD ANY MAKE SURE U DONT CHECK STATUS CUZ   STATUS IS FOR THE SITE ADMINS TO ADD PRODUCTS OR 
+CATEGORIES BUT WONT APPEAR FOR THE END USER ITS LIKE PREPARING THE DATABASE FOR THE CAT OR THE PRODUCT THAT WILL BE AVIALABLE 
+IN THE FUTURE
+
+
+dashboard style is from material dashboard from creative tim site 
+
+
+
+
+i guess:
+The reason behind the problem of u not finding the category or products is becuase i was working on another database i copied 
+the tables so there is a link between both databses the solution is just add a category and a product and it will be working
+just fine i suppose this is it 
+
+
+used bootsrab and tailwind(breeze built in tailwind) .
+
+
+ 
+
+
+
+
+
+
+
+
+
